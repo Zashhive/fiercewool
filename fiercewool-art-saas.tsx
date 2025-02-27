@@ -8,38 +8,38 @@ const FierceWoolArt = () => {
   const commissionTypes = [
     {
       title: "Headshot",
-      price: "$30",
+      price: "$30+",
       image: "/api/placeholder/400/400",
     },
     {
       title: "Half Body",
-      price: "$50",
+      price: "$50+",
       image: "/api/placeholder/400/400",
       popular: true,
     },
     {
       title: "Full Body",
-      price: "$80",
+      price: "$80+",
       image: "/api/placeholder/400/400",
     },
     {
       title: "Additional Characters",
-      price: "+$20",
+      price: "+$20+",
       image: "/api/placeholder/400/400",
     },
     {
       title: "Pixel Art Icon",
-      price: "$25",
+      price: "$25+",
       image: "/api/placeholder/400/400",
     },
     {
       title: "Reference Sheet",
-      price: "$100",
+      price: "$100+",
       image: "/api/placeholder/400/400",
     },
     {
       title: "Traditional Package",
-      price: "$150",
+      price: "$150+",
       image: "/api/placeholder/400/400",
     }
   ];
