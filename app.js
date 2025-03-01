@@ -12,7 +12,8 @@ const FierceWoolArt = () => {
     {
       title: "Half Body",
       price: "$50",
-      image: "https://via.placeholder.com/400x400",
+      image: "images/halfbody.jpg"
+",
       popular: true,
     },
     {
