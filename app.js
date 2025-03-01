@@ -146,7 +146,7 @@ const FierceWoolArt = () => {
             </div>
             <div className="md:w-1/2">
               <img 
-                src="https://storage.googleapis.com/claude-images/15ae15ec-c5ce-4b83-9a0a-27e5b15dffc9/b7ea1f16-c6ba-4c70-8ccb-4a4b0eb2ab8e.png" 
+                src="images/Destinyproject.png" 
                 alt="FierceWool Character" 
                 className="rounded-xl shadow-2xl max-w-full h-auto"
               />
