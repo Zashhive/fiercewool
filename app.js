@@ -201,7 +201,8 @@ const FierceWoolArt = () => {
                 <img 
                   src={commission.image} 
                   alt={commission.title}
-                  className="w-full h-full object-cover transition duration-500 group-hover:scale-105"
+                  className="w-full h-auto object-contain transition duration-500 group-hover:scale-105"
+
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/50 to-transparent flex flex-col justify-end p-4">
                   <h4 className="text-white font-semibold text-lg">{commission.title}</h4>
